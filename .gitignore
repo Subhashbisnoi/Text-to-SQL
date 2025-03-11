@@ -1,2 +1,2 @@
 /.env
-/.venv
+/.venvvenv/ # Add venv to .gitignore
